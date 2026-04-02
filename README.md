@@ -38,4 +38,5 @@ If you use this work in a scientific publication, we would appreciate using the 
 ```
 
 ## Poster
-*(will be updated soon)*
+
+[![Poster](Poster.png)](https://linktr.ee/coffee_classification_BINUS)
