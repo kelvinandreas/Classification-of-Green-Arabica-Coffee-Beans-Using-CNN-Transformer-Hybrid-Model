@@ -4,7 +4,7 @@ This research proposes a hybrid deep learning model combining CNN and Transforme
 
 This research evaluated 8 different hybrid model configurations by combining four CNN-based models (ResNet-18, ResNet-50, MobileNetV3, and EfficientNetB4) with two Transformer-based models (Vision Transformer and Swin Transformer). Hyperparameter tuning was performed using grid search on learning rates and batch sizes, resulting in a total of 48 experiments.
 
-Using the USK-Coffee dataset, the best-performing hybrid model (R50-V: ResNet-50 + Vision Transformer) achieved **91.88% accuracy**, outperforming previous single-model approaches. The full paper is available at **[this link](soon)** *(will be updated soon)*.
+Using the USK-Coffee dataset, the best-performing hybrid model (R50-V: ResNet-50 + Vision Transformer) achieved **91.88% accuracy**, outperforming previous single-model approaches. The full paper is available at **[this link](http://www.icicel.org/ell/contents/2026/4/el-20-04-12.pdf)**.
 
 ## Dataset & Experiment Results
 
